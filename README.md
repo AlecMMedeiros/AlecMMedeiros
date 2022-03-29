@@ -6,9 +6,11 @@ Specialties: WCM (FI and LCS), Lean Six Sigma, Managing people, logistics proces
 Participating at the launch of the Jeep (FCA) complex at Pernambuco as member of the logistics team responsible for planning of the pre-serie and commercial production. Then, as a logistics supervisor responsible for managing and adjusting the flux of parts beetwen Jeep main plant and the supplier park.”
 
 If gratitude in oldMe:
+
 print(“😊”)
 
 else:
+
 print(“☹”)
 
 
