@@ -24,10 +24,33 @@ Output:
 
 #On this part my journey in IT starts…
 
-newMe = { student, Python, Javascript, CSS, HTML, Typescript, React, SQL, NodeJs, ExpressJs, 'to infinity and beyond' }
+newMe = {
+Student,
+Python,
+Javascript,
+CSS,
+HTML,
+Typescript,
+React,
+Redux,
+Docker,
+MySQL,
+Sequelize,
+NodeJs,
+ExpressJs,
+MongoDB,
+'to infinity and beyond',
+}
 ```
-<h1 align="center"> Do you need an 46yo intern? :D </h1>
+<h1 align="center"> Do you need an 46yo intern? :) </h1>
 
+<h2 align="center">Where I'm from: </h2>
+
+<p align="center">
+<a href="https://en.wikipedia.org/wiki/Brazil" target="_blank">
+  <img align="center" src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="Brazilian" width="100">
+</a>
+</p>
 <h2 align="center">You can reach me at: </h2>
 
 <p align="center">
@@ -67,13 +90,11 @@ newMe = { student, Python, Javascript, CSS, HTML, Typescript, React, SQL, NodeJs
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 
-<h2 align="center">Github stats:</h2>
-
-<h4 align="center">Top languages:</h4>
+<h2 align="center">Top languages:</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecMMedeiros&langs_count=10&theme=github_dark" alt="AlecMMedeiros :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h2 align="center">Profile stats:</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlecMMedeiros&show_icons=true&theme=github_dark" alt="AlecMMedeiros :: Profile Stats" /></p>
 
