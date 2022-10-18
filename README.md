@@ -1,4 +1,4 @@
-<h2 align="center">About me</h2>
+<h1 align="center">About me</h1>
 
 ```golang
 oldMe = `Bachelor of Business Administration. Postgraduate MBA in Business Administration at CEDEPE Business School.
