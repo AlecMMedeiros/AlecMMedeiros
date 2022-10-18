@@ -42,7 +42,7 @@ MongoDB,
 'to infinity and beyond',
 }
 ```
-<h1 align="center"> Do you need an 46yo intern? :) </h1>
+<h1 align="center"> Do you need a 46yo intern? :) </h1>
 
 <h2 align="center">Where I'm from: </h2>
 
