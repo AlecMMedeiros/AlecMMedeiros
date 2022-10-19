@@ -96,7 +96,7 @@ MongoDB,
 
 <h2 align="center">Profile stats:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlecMMedeiros&show_icons=true&theme=github_dark" alt="AlecMMedeiros :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlecMMedeiros&theme=github_dark" alt="AlecMMedeiros :: Profile Stats" /></p>
 
 <p align="center"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></p>
 
