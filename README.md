@@ -92,7 +92,7 @@ MongoDB,
 
 <h2 align="center">Top languages:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecMMedeiros&langs_count=10&theme=github_dark" alt="AlecMMedeiros :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecMMedeiros&theme=github_dark" alt="AlecMMedeiros :: Top Langs" /></p>
 
 <h2 align="center">Profile stats:</h2>
 
