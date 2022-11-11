@@ -79,7 +79,10 @@ MongoDB,
   <a href="https://top-trumps-production.up.railway.app/" target="_blank"> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railaway app top trumps"></a>
   
  <h3> small-store-manager-mysql API (NodeJs, MySQL, ExpressJs, MSC (model-service-controller), JavaScript )<h3>
-  <a href="https://github.com/AlecMMedeiros/small-store-manager-mysql" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository app top trumps"></a>
+  <a href="https://github.com/AlecMMedeiros/small-store-manager-mysql" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository small-store-manager-mysql API"></a>
+
+ <h3> small_blog API (NodeJs, MySQL, ExpressJs, Sequelize, JSON Wen Token, MSC (model-service-controller), JavaScript )<h3>
+  <a href="https://github.com/AlecMMedeiros/small_blog_api" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository small-store-manager-mysql AP"></a>
 
 <h2 align="center">Tools</h2>
 
