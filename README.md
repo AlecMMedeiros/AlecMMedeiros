@@ -71,8 +71,8 @@ MongoDB,
 <h2 align="center">Pinned Projects</h2>
 
 <h3> app-green-wallet (Reactjs, Redux and RTL)<h3>
-  <a href="https://github.com/AlecMMedeiros/app-green-wallet" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository app green wallet"></a>
-  <a href="https://app-green-wallet-production.up.railway.app/" target="_blank"> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railaway app green wallet"></a>
+  <a href="https://github.com/AlecMMedeiros/app-green-wallet"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository app green wallet"></a>
+  <a href="https://app-green-wallet-production.up.railway.app/"> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railaway app green wallet"></a>
 
 <h3> app-top-trumps (Reactjs and RTL)<h3>
   <a href="https://github.com/AlecMMedeiros/top-trumps" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository app top trumps"></a>
@@ -102,7 +102,7 @@ MongoDB,
 
 <h2 align="center">Top languages:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecMMedeiros&theme=github_dark" alt="AlecMMedeiros :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecMMedeiros&theme=github" alt="AlecMMedeiros :: Top Langs" /></p>
 
 <h2 align="center">Profile stats:</h2>
 
