@@ -73,6 +73,10 @@ MongoDB,
 <h3> app-green-wallet (Reactjs, Redux and RTL)<h3>
   <a href="https://github.com/AlecMMedeiros/app-green-wallet"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository app green wallet"></a>
   <a href="https://app-green-wallet-production.up.railway.app/"> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railaway app green wallet"></a>
+  
+  <h3> angular-shopping (Angular) WIP <h3>
+  <a href="https://github.com/AlecMMedeiros/angular-shopping" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Angular Shopping repository app top trumps"></a>
+  <a href="https://angular-shopping-eight.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Angular Shopping"></a>
 
 <h3> app-top-trumps (Reactjs and RTL)<h3>
   <a href="https://github.com/AlecMMedeiros/top-trumps" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository app top trumps"></a>
