@@ -120,7 +120,7 @@ MongoDB,
 
 <h2 align="center">Profile stats:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlecMMedeiros?theme=cobalt" alt="AlecMMedeiros :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlecMMedeiros" alt="AlecMMedeiros :: Profile Stats" /></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alecsandro-medeiros/" target="_blank">
