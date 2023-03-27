@@ -80,10 +80,9 @@ MongoDB,
   <a href="https://github.com/AlecMMedeiros/angular-shopping" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Angular Shopping repository app top trumps"></a>
   <a href="https://angular-shopping-eight.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Angular Shopping"></a>
 
-<h3> app-top-trumps (Reactjs and RTL)<h3>
-  <a href="https://github.com/AlecMMedeiros/top-trumps" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository app top trumps"></a>
-  <a href="https://top-trumps-production.up.railway.app/" target="_blank"> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railaway app top trumps"></a>
-  
+<h3> TimeSheet-Java (Spring + Java + MySQL)<h3>
+  <a href="https://github.com/AlecMMedeiros/TimeSheet-Java" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository TimeSheet Java"></a>
+
  <h3> small-store-manager-mysql API (NodeJs, MySQL, ExpressJs, MSC (model-service-controller), JavaScript )<h3>
   <a href="https://github.com/AlecMMedeiros/small-store-manager-mysql" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository small-store-manager-mysql API"></a>
 
