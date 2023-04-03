@@ -1,49 +1,13 @@
 <h1 align="center">About me</h1>
 
-```golang
-oldMe = `Bachelor of Business Administration. Postgraduate MBA in Business Administration at CEDEPE Business School.
-My greatest talent is to see the world in different ways: Creativity.
-Specialties: WCM (FI and LCS), Lean Six Sigma, Managing people, logistics processes, designing and analyzing KPI's.
-Participating at the launch of the Jeep (FCA) complex at Pernambuco as member of the logistics team responsible for planning of the pre-serie and commercial production. Then, as a logistics supervisor responsible for managing and adjusting the flux of parts beetwen Jeep main plant and the supplier park.`
+<p>With a Bachelor of Business Administration degree and a Postgraduate MBA in Business Administration from CEDEPE Business School, I have a strong foundation in both business and technology. I am currently a graduate student in Full Stack Development at XP Education and I am also taking a Technologist course in Full Stack Development at Estácio University and Web Development at Trybe.</p>
 
-If gratitude in oldMe:
+<p>My greatest talent is my ability to see the world in unique and creative ways. This, combined with my years of experience in logistics and production planning, has inspired me to embark on a new professional journey in the field of software development.</p>
 
-print(“😊”)
+<p>I have extensive knowledge and expertise in various technologies, including Node JS, TypeScript, Java, Spring, Angular, MySql, Sequelize, Express.js, JavaScript, HTML, CSS, React.js, Redux, React Testing Library, Context API, React Hooks, Agile, Scrum, Kanban, and Docker. I am confident in my ability to deliver high-quality software solutions to meet the needs of any project.</p>
 
-else:
+<p>Additionally, I have a great ability to learn quickly, whether it's learning new technologies or picking up new development processes.</p>
 
-print(“☹”)
-
-
-%%%%%%
-calculating…. Still calculating…. I need a new PC… Loading
-%%%%%%
-
-Output:
-😊
-
-#On this part my journey in IT starts…
-
-newMe = {
-Student,
-Python,
-Javascript,
-Typescript,
-Java,
-CSS,
-HTML,
-Angular,
-React,
-Redux,
-Docker,
-MySQL,
-Sequelize,
-NodeJs,
-ExpressJs,
-MongoDB,
-'to infinity and beyond',
-}
-```
 <h2 align="center">Where I'm from: </h2>
 
 <p align="center">
