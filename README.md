@@ -78,11 +78,11 @@
 
 <h2 align="center">Top languages:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecMMedeiros&theme=&show_icons=true" alt="AlecMMedeiros :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecMMedeiros&theme=dark&show_icons=true" alt="AlecMMedeiros :: Top Langs" /></p>
 
 <h2 align="center">Profile stats:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlecMMedeiros&theme=&show_icons=true" alt="AlecMMedeiros :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlecMMedeiros&theme=dark&show_icons=true" alt="AlecMMedeiros :: Profile Stats" /></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alecsandro-medeiros/" target="_blank">
