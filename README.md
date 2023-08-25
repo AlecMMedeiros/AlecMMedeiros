@@ -38,18 +38,30 @@
   <a href="https://github.com/AlecMMedeiros/app-green-wallet"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository app green wallet"></a>
   <a href="https://app-green-wallet-production.up.railway.app/"> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railaway app green wallet"></a>
   
+  **You can log in using any valid email format and any password (at least 6 characters).**
+  <br/>
+  <br/>
+
   <h3> angular-shopping (Angular) WIP <h3>
   <a href="https://github.com/AlecMMedeiros/angular-shopping" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Angular Shopping repository app top trumps"></a>
   <a href="https://angular-shopping-eight.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Angular Shopping"></a>
+  <br/>
+  <br/>
 
 <h3> TimeSheet-Java (Spring + Java + MySQL)<h3>
   <a href="https://github.com/AlecMMedeiros/TimeSheet-Java" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository TimeSheet Java"></a>
+  <br/>
+  <br/>
 
  <h3> small-store-manager-mysql API (NodeJs, MySQL, ExpressJs, MSC (model-service-controller), JavaScript )<h3>
   <a href="https://github.com/AlecMMedeiros/small-store-manager-mysql" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository small-store-manager-mysql API"></a>
+  <br/>
+  <br/>
 
  <h3> small_blog API (NodeJs, MySQL, ExpressJs, Sequelize, JSON Wen Token, MSC (model-service-controller), JavaScript )<h3>
   <a href="https://github.com/AlecMMedeiros/small_blog_api" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github repository small-store-manager-mysql AP"></a>
+  <br/>
+  <br/>
 
 <h2 align="center">Tools</h2>
 
@@ -78,16 +90,12 @@
 
 <h2 align="center">Top languages:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecMMedeiros&theme=dark&show_icons=true" alt="AlecMMedeiros :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecMMedeiros&theme=codeSTACKr&show_icons=true" alt="AlecMMedeiros :: Top Langs" /></p>
 
 <h2 align="center">Profile stats:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlecMMedeiros&theme=dark&show_icons=true" alt="AlecMMedeiros :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlecMMedeiros&theme=codeSTACKr&show_icons=true" alt="AlecMMedeiros :: Profile Stats" /></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alecsandro-medeiros/" target="_blank">
-  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></p>
-  </a>
 
 ---
 
